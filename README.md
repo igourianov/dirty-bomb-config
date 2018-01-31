@@ -8,3 +8,5 @@ Following high level changes were made:
 3. Moved objective meter and respawn timer to the mid left
 4. Moved badge notification to the bottom right corner and increased its timeout from 3 seconds to 15
 5. Removed a number of unused config variables
+
+### Sample screenshot ![logo](/screenshot_1.png)
