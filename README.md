@@ -12,7 +12,7 @@ Following high level changes were made:
 ### Sample screenshot ![logo](/screenshot_1.png)
 
 ## Installation
-1. Navigate to your "C:\Users\[user]\Documents\My Games\UnrealEngine3\ShooterGame\Config" folder
-2. Make a copy of your original ShooterUI.ini file just in case
-3. Replace your ShooterUI.ini with the one provided
-4. Copy the [IniVersion] section from your original file (it's at very bottom) and replace it the new file. This should prevent the game from resetting this config to default.
+1. Navigate to your `C:\Users\[user]\Documents\My Games\UnrealEngine3\ShooterGame\Config` folder
+2. Make a copy of your original `ShooterUI.ini` file just in case
+3. Replace your `ShooterUI.ini` with the one provided
+4. Copy the `[IniVersion]` section from your original file (it's at very bottom) and replace it the new file. This should prevent the game from resetting this config to default.
